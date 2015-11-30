@@ -1,0 +1,56 @@
+.sidebar-module-inset {
+  padding: 15px;
+  background-color: #ddd;
+  border-radius: 4px;
+  color:black;
+}
+
+img.linkedin-image{
+  background: url("/images/icon-sprite_main.png") 0 -96px;
+  height:32px;
+  width:32px;
+}
+
+img.twitter-image{
+  background: url("/images/icon-sprite_main.png") -32px -96px;
+  height:32px;
+  width:32px;
+}
+
+img.google-image{
+  background: url("/images/icon-sprite_main.png") -64px -96px;
+  height:32px;
+  width:32px;
+}
+
+img.github-image{
+  background: url("/images/icon-sprite_main.png") -96px -64px;
+  height:32px;
+  width:32px;
+}
+
+
+/* on hover */
+img.linkedin-image:hover{
+  background: url("/images/icon-sprite_main.png") 0 -64px;
+  height:32px;
+  width:32px;
+}
+
+img.twitter-image:hover{
+  background: url("/images/icon-sprite_main.png") -32px -64px;
+  height:32px;
+  width:32px;
+}
+
+img.google-image:hover{
+  background: url("/images/icon-sprite_main.png") -64px -64px;
+  height:32px;
+  width:32px;
+}
+
+img.github-image:hover{
+  background: url("/images/icon-sprite_main.png") -96px -96px;
+  height:32px;
+  width:32px;
+}
